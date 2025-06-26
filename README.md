@@ -30,7 +30,7 @@ This interactive sorting visualizer helps users understand how sorting algorithm
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/sorting-visualizer.git
+git clone https://github.com/your-username/Sorting-Visualizer-with-python-WebDev.git
 cd sorting-visualizer
 ```
 ### 2. Install dependencies
